@@ -1,3 +1,3 @@
 ## About me
 
-Engineer with almost a decade building production services in C++ and Python.
+Engineer with passion to creating production services in C++ and Python.
