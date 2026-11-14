@@ -1,4 +1,3 @@
 ## About me
 
-I build fullstack services and the low-level communication protocols they
-run on, test them thoroughly and run what I ship in production.
+I build, test, ship and secure services end to end, down to the low-level protocols they run on.
